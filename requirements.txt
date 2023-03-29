@@ -1,5 +1,6 @@
 django>=3.0,<4.1
 openwisp-users @ https://github.com/openwisp/openwisp-users/tarball/master
-netdiff @ https://github.com/openwisp/netdiff/tarball/master
+# For prototype
+netdiff @ https://github.com/Aryamanz29/netdiff/tarball/zerotier-prototype
 jsonfield~=3.1.0
 django-flat-json-widget @ https://github.com/openwisp/django-flat-json-widget/tarball/master
